@@ -1,0 +1,29 @@
+{
+  "name": "gel-promos",
+  "private": true,
+  "dependencies": {
+    "gos-core": ">0.0.0"
+  },
+  "version": "0.0.0",
+  "authors": [
+    "Euan Willcox <euan@tui.co.uk>"
+  ],
+
+  "main": [
+    "src/styles/_gel.promo.scss"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "component/bower_components",
+    "test",
+    "tests"
+  ]
+}
